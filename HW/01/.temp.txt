@@ -1,0 +1,10 @@
+# Run all questions
+solver = FinanceHomeworkSolver()
+solver.run_all_questions()
+
+# Run individual questions
+solver = FinanceHomeworkSolver()
+result = solver.question_1_sp500_additions()
+
+# Access results
+print(solver.results['question_1'])
