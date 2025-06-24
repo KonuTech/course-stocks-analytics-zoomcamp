@@ -169,3 +169,16 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0.conda
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/about.json
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/files
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/git
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/hash_input.json
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/index.json
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/paths.json
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/licenses/LICENSE
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/recipe/conda_build_config.yaml
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/recipe/meta.yaml
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/recipe/meta.yaml.template
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/recipe/recipe-scripts-license.txt
+02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/test/run_test.py
