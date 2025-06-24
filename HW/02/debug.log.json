@@ -1,0 +1,11 @@
+{"timestamp": "2025-06-24 22:41:00,283", "level": "INFO", "message": "Starting solution for Question 1: Withdrawn IPOs by Company Type.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 37}
+{"timestamp": "2025-06-24 22:41:00,766", "level": "INFO", "message": "Successfully fetched data from https://stockanalysis.com/ipos/withdrawn/", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 46}
+{"timestamp": "2025-06-24 22:41:00,812", "level": "INFO", "message": "Successfully parsed HTML table into DataFrame. Shape: (100, 4)", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 50}
+{"timestamp": "2025-06-24 22:41:00,817", "level": "INFO", "message": "Renamed column 'Company Name' to 'Company'.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 63}
+{"timestamp": "2025-06-24 22:41:00,818", "level": "INFO", "message": "Created 'Company Class' column.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 92}
+{"timestamp": "2025-06-24 22:41:00,818", "level": "INFO", "message": "Created 'Avg. price' column by parsing 'Price Range'.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 115}
+{"timestamp": "2025-06-24 22:41:00,819", "level": "INFO", "message": "Cleaned and converted 'Shares Offered' column to numeric.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 123}
+{"timestamp": "2025-06-24 22:41:00,819", "level": "INFO", "message": "Calculated 'Withdrawn Value' column.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 125}
+{"timestamp": "2025-06-24 22:41:00,819", "level": "INFO", "message": "Found 71 non-null 'Withdrawn Value' entries.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 129}
+{"timestamp": "2025-06-24 22:41:00,820", "level": "INFO", "message": "Grouped by 'Company Class' and summed 'Withdrawn Value'.", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 133}
+{"timestamp": "2025-06-24 22:41:00,820", "level": "INFO", "message": "Determined the highest withdrawal class. Result: {'highest_class': 'Acq.Corp', 'total_value_millions': np.float64(4021.0)}", "module": "question1_solution", "funcName": "solve_question_1", "lineno": 148}

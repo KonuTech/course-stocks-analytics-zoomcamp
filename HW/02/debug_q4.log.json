@@ -1,0 +1,6 @@
+{"timestamp": "2025-06-24 23:17:28,054", "level": "INFO", "message": "Starting solution for Question 4: RSI-Based Trading Strategy.", "module": "question4_solution", "funcName": "solve_question_4", "lineno": 59}
+{"timestamp": "2025-06-24 23:17:28,055", "level": "INFO", "message": "Data file 'data.parquet' already exists. Skipping download.", "module": "question4_solution", "funcName": "download_data", "lineno": 40}
+{"timestamp": "2025-06-24 23:17:29,092", "level": "INFO", "message": "Successfully loaded data from 'data.parquet'. Shape: (229932, 203)", "module": "question4_solution", "funcName": "solve_question_4", "lineno": 69}
+{"timestamp": "2025-06-24 23:17:29,092", "level": "INFO", "message": "Filtering data for RSI < 25 between 2000-01-01 and 2025-06-01.", "module": "question4_solution", "funcName": "solve_question_4", "lineno": 80}
+{"timestamp": "2025-06-24 23:17:29,104", "level": "INFO", "message": "Found 1568 trades matching the criteria.", "module": "question4_solution", "funcName": "solve_question_4", "lineno": 92}
+{"timestamp": "2025-06-24 23:17:29,112", "level": "INFO", "message": "Final Answer (in $K): 24.30", "module": "question4_solution", "funcName": "solve_question_4", "lineno": 106}
