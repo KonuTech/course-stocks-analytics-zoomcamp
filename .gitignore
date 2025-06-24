@@ -182,3 +182,4 @@ cython_debug/
 02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/about.json
 02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/files
 02-dataframe-analysis/ta-lib-0.5.1-py311h9ecbd09_0/info/git
+HW/02/data.parquet
